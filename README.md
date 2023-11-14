@@ -1,1 +1,1 @@
-# Ecommerce-Application
+# MERN Full-Stack-Ecommerce-Application
